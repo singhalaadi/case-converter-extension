@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "CASE-CONVERTER",
+    "description": "This extension will convert all small letters to capital letters",
+    "version": "1.0",
+    "author" : "Aaditya Singhal",
+    "action":{
+        "default_popup": "popup.html",
+        "default_icon": "./icon.png"
+    },
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ]
+}
