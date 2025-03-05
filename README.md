@@ -1,7 +1,7 @@
-# CASE-CONVERTER
+# CASE-CONVERTER EXTENSION
 
 ## Introduction
-CASE-CONVERTER is a Chrome extension that converts all lowercase letters on a webpage to uppercase. It allows users to transform text on any webpage with a single click.
+CASE-CONVERTER is a Chrome extension that converts all lowercase letters on a webpage to uppercase and also back to its original form. It allows users to transform text on any webpage with a single click.
 
 ## Installation
 1. Download or clone this repository.
@@ -14,10 +14,12 @@ CASE-CONVERTER is a Chrome extension that converts all lowercase letters on a we
 1. Navigate to any webpage.
 2. Click the **CASE-CONVERTER** extension icon.
 3. Click the **"Convert Text"** button.
-4. All text on the page will be transformed into uppercase.
+4. Click the **Revert** button to change the converted text back.
+5. All text on the page will be transformed into uppercase.
 
 ## Features
 - Converts all lowercase text on a webpage to uppercase.
+- Reverts the converted text back to original form on a webpage.
 - Works on most websites (except Chrome system pages).
 - Simple one-click transformation.
 
